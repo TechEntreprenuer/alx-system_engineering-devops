@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Ls  -la > ls_cwd_conten
+echol "ls  -la" > ls_cwd_conten
